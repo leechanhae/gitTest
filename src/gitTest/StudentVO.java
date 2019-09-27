@@ -22,6 +22,14 @@ public String getDept() {
 public void setDept(String dept) {
 	this.dept = dept;
 }
+@Override
+public String toString() {
+	return "StudentVO [id=" + id + ", name=" + name + ", dept=" + dept + ", getId()=" + getId() + ", getName()="
+			+ getName() + ", getDept()=" + getDept() + ", getClass()=" + getClass() + ", hashCode()=" + hashCode()
+			+ ", toString()=" + super.toString() + "]";
+}
+
+
 
 
 }
