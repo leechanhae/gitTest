@@ -18,10 +18,5 @@
 <li>JSP</li>
 <li>SERVLET</li>
 </ul>
-<ul>
-<li>J</li>
-<li>S</li>
-<li>P</li>
-</ul>
 </body>
 </html>
