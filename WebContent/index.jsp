@@ -18,5 +18,6 @@
 <li>JSP</li>
 <li>SERVLET</li>
 </ul>
+<div>div 영역 추가</div>
 </body>
 </html>
